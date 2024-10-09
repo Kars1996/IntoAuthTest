@@ -1,0 +1,21 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "ALLOWINIT",
+        "clsx",
+        "kars",
+        "lerp",
+        "maraquee",
+        "nocache",
+        "noimageindex",
+        "nprogress",
+        "quickstart",
+        "reinit",
+        "tailwindcss"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
