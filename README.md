@@ -1,19 +1,5 @@
-## Now stable! 💖
+Silly little repository that I'll use in a template/website soon
 
-Kars Template v1.2 (Shoutout Nitlix for the help/inspiration 💛)
-
-This is a [Next.js](https://nextjs.org/) template created for super-powering Kars Apps quickly. It includes:
-
--   Inter - A google font.
--   Client theme provider, first rendered by the server (kars-themes)
--   The theme provider includes Locomotive Scroll, AOS built specifically for Loco. (locomotive-aos)
--   metaGen() - A function that generates meta tags for the page. (kars-metagen)
--   Quickstart global.scss and animations.scss
--   SASS already installed.
--   Tailwind ready to fly.
--   4 Fonts to start with: Neue Montreal, Neutral Grotesk, Inter and Strretch Sans.
--   Prisma ready to launch! (Just create the .env vars)
--   Prebuilt I18N support (With @vercel/edge, via headers and context (kars-i18n))
 
 ## Quickstarting using create-kapp
 
